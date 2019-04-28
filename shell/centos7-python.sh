@@ -1,4 +1,5 @@
 #!/bin/bash
+# centos7 编译安装 python3.6.8
 yum install wget gcc make bzip2-devel ncurses-devel sqlite-devel gdbm-devel xz-devel tk-devel readline-devel
 wget https://www.python.org/ftp/python/3.6.8/Python-3.6.8.tgz
 tar -xvf Python-3.6.8.tar
